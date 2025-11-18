@@ -1,3 +1,3 @@
 # hello-world
 Practice git-hub
-No:1
+A second update No:2 - İbrahim Halil Hicazlıoğlu is trying. 
